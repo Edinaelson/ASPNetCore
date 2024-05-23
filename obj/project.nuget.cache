@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iglL6o5ySWpz5Sbi1AwbznNS9g6CreLdxpw1fBys41s3x4FoCyhr+3RNH2+s5uBmTNA8ZUX3uiyNRK0YeC4tcg==",
+  "success": true,
+  "projectFilePath": "D:\\Curso_Dotnet_ASPNETCORE\\EmprestimosLivro.APi\\EmprestimosLivro\\EmprestimosLivro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TI\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\TI\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\TI\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\TI\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\TI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\TI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
